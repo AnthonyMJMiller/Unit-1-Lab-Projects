@@ -4,7 +4,7 @@ import java.time.Period;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-//
+// Lab 1 Part Two by Anthony Miller
 public class PartTwo {
 
 	public static void main(String[] args) {
