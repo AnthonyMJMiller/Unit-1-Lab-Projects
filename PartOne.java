@@ -1,6 +1,7 @@
 package labOne;
 import java.util.Scanner;
 
+// Lab 1 - Part 1 by Anthony Miller
 public class PartOne {
 
 	public static void main(String[] args) {
